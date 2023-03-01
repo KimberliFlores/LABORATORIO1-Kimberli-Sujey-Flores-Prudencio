@@ -1,0 +1,5 @@
+C:\Users\50373\OneDrive\Escritorio\LaboratorioProgramacion\LaboratorioProgramacion\LaboratorioProgramacion\obj\Debug\net6.0\LaboratorioProgramacion.csproj.AssemblyReference.cache
+C:\Users\50373\OneDrive\Escritorio\LaboratorioProgramacion\LaboratorioProgramacion\LaboratorioProgramacion\obj\Debug\net6.0\LaboratorioProgramacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\50373\OneDrive\Escritorio\LaboratorioProgramacion\LaboratorioProgramacion\LaboratorioProgramacion\obj\Debug\net6.0\LaboratorioProgramacion.AssemblyInfoInputs.cache
+C:\Users\50373\OneDrive\Escritorio\LaboratorioProgramacion\LaboratorioProgramacion\LaboratorioProgramacion\obj\Debug\net6.0\LaboratorioProgramacion.AssemblyInfo.cs
+C:\Users\50373\OneDrive\Escritorio\LaboratorioProgramacion\LaboratorioProgramacion\LaboratorioProgramacion\obj\Debug\net6.0\LaboratorioProgramacion.csproj.CoreCompileInputs.cache
